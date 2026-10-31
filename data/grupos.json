@@ -1,0 +1,508 @@
+{
+  "grupos": [
+    {
+      "id": "9174acfc8f70",
+      "nombre": "2ª Programación",
+      "alumnos": [
+        {
+          "id": "71f9b87e889d",
+          "nombre": "Carlos A.",
+          "veces": 0
+        },
+        {
+          "id": "7df8c6fd86b7",
+          "nombre": "Jacobo",
+          "veces": 0
+        },
+        {
+          "id": "c4b4fff0194c",
+          "nombre": "Ramón",
+          "veces": 1
+        },
+        {
+          "id": "0730e3ef1e13",
+          "nombre": "Óscar",
+          "veces": 0
+        },
+        {
+          "id": "9cd04ff6d616",
+          "nombre": "Javier G.",
+          "veces": 0
+        },
+        {
+          "id": "999ab4e7a9c2",
+          "nombre": "Marta",
+          "veces": 0
+        },
+        {
+          "id": "ba834afff906",
+          "nombre": "Rafa",
+          "veces": 0
+        },
+        {
+          "id": "d334d8aec75b",
+          "nombre": "John",
+          "veces": 0
+        },
+        {
+          "id": "da7d0e7c0859",
+          "nombre": "Kevin",
+          "veces": 1
+        },
+        {
+          "id": "8ce734e5e93d",
+          "nombre": "Javi. F",
+          "veces": 0
+        },
+        {
+          "id": "fc261fa3c651",
+          "nombre": "Lenin",
+          "veces": 0
+        },
+        {
+          "id": "1add634cfd3c",
+          "nombre": "Javi B.",
+          "veces": 0
+        },
+        {
+          "id": "8195ae091442",
+          "nombre": "Juan",
+          "veces": 1
+        },
+        {
+          "id": "0d43b9b40aa0",
+          "nombre": "Jorge N.",
+          "veces": 0
+        },
+        {
+          "id": "a0612264ffd1",
+          "nombre": "Eduardo",
+          "veces": 0
+        },
+        {
+          "id": "a3817f6d11df",
+          "nombre": "Jorge H.",
+          "veces": 0
+        },
+        {
+          "id": "12bb2e895439",
+          "nombre": "Hugo",
+          "veces": 0
+        },
+        {
+          "id": "f784052755d8",
+          "nombre": "Inés",
+          "veces": 0
+        },
+        {
+          "id": "9a87e84c5e8c",
+          "nombre": "Carlos R.",
+          "veces": 0
+        },
+        {
+          "id": "60257cabc9e0",
+          "nombre": "Jesús",
+          "veces": 1
+        },
+        {
+          "id": "e4ede63b8c66",
+          "nombre": "Mikel",
+          "veces": 0
+        },
+        {
+          "id": "a084c2c47c40",
+          "nombre": "Carla",
+          "veces": 0
+        },
+        {
+          "id": "2f67a9aeba0c",
+          "nombre": "Alex",
+          "veces": 0
+        },
+        {
+          "id": "c6e6f4938878",
+          "nombre": "Javi B.",
+          "veces": 0
+        }
+      ]
+    },
+    {
+      "id": "d2e9b3312faf",
+      "nombre": "1º Programación",
+      "alumnos": [
+        {
+          "id": "8b7934f36b57",
+          "nombre": "Adrián",
+          "veces": 0
+        },
+        {
+          "id": "23673987ceaa",
+          "nombre": "Alberto Isla",
+          "veces": 0
+        },
+        {
+          "id": "b1613a5d7483",
+          "nombre": "Alberto Magro",
+          "veces": 0
+        },
+        {
+          "id": "1ad715263d98",
+          "nombre": "David",
+          "veces": 0
+        },
+        {
+          "id": "0da063bf6693",
+          "nombre": "Iker",
+          "veces": 0
+        },
+        {
+          "id": "12895affc678",
+          "nombre": "Alejandro",
+          "veces": 0
+        },
+        {
+          "id": "4733665b3fb2",
+          "nombre": "Juanjo",
+          "veces": 0
+        },
+        {
+          "id": "a81075a18a89",
+          "nombre": "Lucas",
+          "veces": 0
+        },
+        {
+          "id": "bd5c6f881366",
+          "nombre": "Luis",
+          "veces": 0
+        },
+        {
+          "id": "790c739ea010",
+          "nombre": "Marcos",
+          "veces": 0
+        },
+        {
+          "id": "27e0071f4ae9",
+          "nombre": "Ulises",
+          "veces": 0
+        },
+        {
+          "id": "a498dd2d3636",
+          "nombre": "Yonatan",
+          "veces": 0
+        }
+      ]
+    },
+    {
+      "id": "5660eac8a23b",
+      "nombre": "1º Mecatrónica",
+      "alumnos": [
+        {
+          "id": "2bff4880d2d4",
+          "nombre": "Alex",
+          "veces": 0
+        },
+        {
+          "id": "5c80dc9efea3",
+          "nombre": "Almudena",
+          "veces": 0
+        },
+        {
+          "id": "e40124f7fdba",
+          "nombre": "Álvaro",
+          "veces": 0
+        },
+        {
+          "id": "2bcab27c56d3",
+          "nombre": "Andrés",
+          "veces": 0
+        },
+        {
+          "id": "02743a25fe3f",
+          "nombre": "Camilo",
+          "veces": 0
+        },
+        {
+          "id": "14ae534fb34b",
+          "nombre": "Carlos",
+          "veces": 0
+        },
+        {
+          "id": "5c98b9abb174",
+          "nombre": "Cecilia",
+          "veces": 0
+        },
+        {
+          "id": "b750b14b2e7e",
+          "nombre": "Daniel Sánchez",
+          "veces": 0
+        },
+        {
+          "id": "208da8168dfe",
+          "nombre": "Daniel Moreira",
+          "veces": 0
+        },
+        {
+          "id": "7b4c3aa40e11",
+          "nombre": "Eduardo",
+          "veces": 0
+        },
+        {
+          "id": "8b92aa56e381",
+          "nombre": "Gabriel",
+          "veces": 0
+        },
+        {
+          "id": "3f434741b75e",
+          "nombre": "Hugo Herráiz",
+          "veces": 0
+        },
+        {
+          "id": "57a32bd90486",
+          "nombre": "Hugo Vázquez",
+          "veces": 0
+        },
+        {
+          "id": "d75aab680379",
+          "nombre": "Iñigo",
+          "veces": 0
+        },
+        {
+          "id": "f79d9645b62f",
+          "nombre": "Jaime",
+          "veces": 0
+        },
+        {
+          "id": "7c64c833300b",
+          "nombre": "Joel",
+          "veces": 0
+        },
+        {
+          "id": "ab3fd0fe4351",
+          "nombre": "Juan",
+          "veces": 0
+        },
+        {
+          "id": "763bdb2db9de",
+          "nombre": "Leyre",
+          "veces": 0
+        },
+        {
+          "id": "040dcb42b822",
+          "nombre": "Lucas",
+          "veces": 0
+        },
+        {
+          "id": "b84fe3891cdb",
+          "nombre": "Nicolás Estanislao",
+          "veces": 0
+        },
+        {
+          "id": "a138a062e72d",
+          "nombre": "Nicolás Yuri",
+          "veces": 0
+        },
+        {
+          "id": "7022348fbb86",
+          "nombre": "Olalla",
+          "veces": 0
+        },
+        {
+          "id": "c253566555c2",
+          "nombre": "Óliver",
+          "veces": 0
+        },
+        {
+          "id": "c9f0e801c1dc",
+          "nombre": "Ricardo",
+          "veces": 0
+        },
+        {
+          "id": "dc1dfe8f8b53",
+          "nombre": "Roberto",
+          "veces": 0
+        },
+        {
+          "id": "82cee2ce0b4d",
+          "nombre": "Santiago",
+          "veces": 0
+        },
+        {
+          "id": "b06a8e15db3a",
+          "nombre": "Teresa",
+          "veces": 0
+        },
+        {
+          "id": "7d4e16b67750",
+          "nombre": "Víctor Rodríguez",
+          "veces": 0
+        },
+        {
+          "id": "3ec18b8d3daf",
+          "nombre": "Víctor Vioque",
+          "veces": 0
+        },
+        {
+          "id": "ff31b6f5b360",
+          "nombre": "Yuri David",
+          "veces": 0
+        }
+      ]
+    },
+    {
+      "id": "76d7514d2136",
+      "nombre": "2º Mecatrónica",
+      "alumnos": [
+        {
+          "id": "8ceb5b13dbfe",
+          "nombre": "Aitor",
+          "veces": 0
+        },
+        {
+          "id": "d42b2625633a",
+          "nombre": "Alejandro Villaseñor",
+          "veces": 0
+        },
+        {
+          "id": "ce376fc712e7",
+          "nombre": "Alejandro Rus",
+          "veces": 0
+        },
+        {
+          "id": "555373659522",
+          "nombre": "Alejandro Blázquez",
+          "veces": 0
+        },
+        {
+          "id": "9cf16afc8ec7",
+          "nombre": "Alonso",
+          "veces": 0
+        },
+        {
+          "id": "5be29040aa1a",
+          "nombre": "Andrés",
+          "veces": 0
+        },
+        {
+          "id": "0d486694c5a5",
+          "nombre": "Axel",
+          "veces": 0
+        },
+        {
+          "id": "8b42304c3fac",
+          "nombre": "Camilo",
+          "veces": 0
+        },
+        {
+          "id": "96638835359d",
+          "nombre": "César",
+          "veces": 0
+        },
+        {
+          "id": "2080a2e2a372",
+          "nombre": "Daniel",
+          "veces": 0
+        },
+        {
+          "id": "6138ea892200",
+          "nombre": "David",
+          "veces": 0
+        },
+        {
+          "id": "f18d27cb78de",
+          "nombre": "Denís",
+          "veces": 0
+        },
+        {
+          "id": "c2d26843548c",
+          "nombre": "Paco",
+          "veces": 0
+        },
+        {
+          "id": "faa0c82dfba9",
+          "nombre": "Gabriel",
+          "veces": 0
+        },
+        {
+          "id": "138ea55eed43",
+          "nombre": "Iván",
+          "veces": 0
+        },
+        {
+          "id": "add244ecadbf",
+          "nombre": "Izan",
+          "veces": 0
+        },
+        {
+          "id": "964c4143c95a",
+          "nombre": "Jacobo",
+          "veces": 0
+        },
+        {
+          "id": "dd5804eb0925",
+          "nombre": "Javier",
+          "veces": 0
+        },
+        {
+          "id": "1efeb46c734a",
+          "nombre": "Jesús",
+          "veces": 0
+        },
+        {
+          "id": "b48167d75b46",
+          "nombre": "Julián",
+          "veces": 0
+        },
+        {
+          "id": "b6a8211a3598",
+          "nombre": "Lucas",
+          "veces": 0
+        },
+        {
+          "id": "3e6766f10b33",
+          "nombre": "Luis",
+          "veces": 0
+        },
+        {
+          "id": "04d9c77f6178",
+          "nombre": "Marco",
+          "veces": 0
+        },
+        {
+          "id": "0b18d86e7d15",
+          "nombre": "Maribel",
+          "veces": 0
+        },
+        {
+          "id": "6a786b03ccac",
+          "nombre": "Matteo",
+          "veces": 0
+        },
+        {
+          "id": "a6d312d63987",
+          "nombre": "Miguel Méndez",
+          "veces": 0
+        },
+        {
+          "id": "dc5a72e75e93",
+          "nombre": "Miguel Goenaga",
+          "veces": 0
+        },
+        {
+          "id": "c0a4607a1ff1",
+          "nombre": "Oscar",
+          "veces": 0
+        },
+        {
+          "id": "3b7fc54e263e",
+          "nombre": "Roberto",
+          "veces": 0
+        },
+        {
+          "id": "9207fe8e2ca1",
+          "nombre": "Samuel",
+          "veces": 0
+        }
+      ]
+    }
+  ]
+}
