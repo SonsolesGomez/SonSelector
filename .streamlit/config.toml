@@ -52,4 +52,5 @@ dataframeBorderColor = "#D1D1D1"
 gatherUsageStats = false
 
 [server]
-headless = false
+# Obligatorio en Streamlit Cloud (si es false, falla el health check)
+headless = true
